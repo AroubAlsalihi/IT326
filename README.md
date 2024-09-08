@@ -1,1 +1,1 @@
-# IT326
+# IT326 project
